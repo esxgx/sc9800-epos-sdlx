@@ -1,0 +1,2 @@
+--cpu=ARM926EJ-S
+-I"D:\Winners\ePDK\SDL_inc"

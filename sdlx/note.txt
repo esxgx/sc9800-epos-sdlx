@@ -1,0 +1,21 @@
+sdlpalÒýÓÃµÄ·ûºÅ
+Error: L6218E: Undefined symbol abort (referred from tmplib.o).
+Error: L6218E: Undefined symbol strcat (referred from tmplib.o).
+Error: L6218E: Undefined symbol __aeabi_d2f (referred from tmplib.o).
+Error: L6218E: Undefined symbol pow (referred from tmplib.o).
+Error: L6218E: Undefined symbol __aeabi_ui2d (referred from tmplib.o).
+Error: L6218E: Undefined symbol __aeabi_dmul (referred from tmplib.o).
+Error: L6218E: Undefined symbol _printf_str (referred from tmplib.o).
+Error: L6218E: Undefined symbol __0fprintf (referred from tmplib.o).
+Error: L6218E: Undefined symbol strchr (referred from tmplib.o).
+Error: L6218E: Undefined symbol __aeabi_ddiv (referred from tmplib.o).
+Error: L6218E: Undefined symbol __aeabi_i2d (referred from tmplib.o).
+Error: L6218E: Undefined symbol atoi (referred from tmplib.o).
+Error: L6218E: Undefined symbol _scanf_int (referred from tmplib.o).
+Error: L6218E: Undefined symbol __0sscanf (referred from tmplib.o).
+Error: L6218E: Undefined symbol vsnprintf (referred from tmplib.o).
+Error: L6218E: Undefined symbol time (referred from tmplib.o).
+Error: L6218E: Undefined symbol __ARM_scalbn (referred from SDL_audiocvt.o).
+Error: L6218E: Undefined symbol __aeabi_d2uiz (referred from SDL_string.o).
+Error: L6218E: Undefined symbol __aeabi_cdcmple (referred from SDL_string.o).
+Error: L6218E: Undefined symbol __aeabi_cdcmpeq (referred from SDL_string.o).

@@ -1,0 +1,4 @@
+--via D:\Winners\ePDK\X_inc\cfgs\suni\compiler.via
+--via D:\Winners\ePDK\SDL_inc\cfgs\sunii\compiler.via
+-O3
+-DEPDK_DEBUG_LEVEL=EPDK_DEBUG_LEVEL_LOG_ALL
